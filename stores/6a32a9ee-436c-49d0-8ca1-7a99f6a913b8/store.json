@@ -3,18 +3,34 @@
   "proxy" : {
     "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
   },
-  "host" : "jquaglia@10.161.42.223",
+  "host" : "10.161.42.223",
   "port" : 22,
   "identity" : {
     "type" : "inPlace",
     "identityStore" : {
       "type" : "localIdentity",
-      "username" : null,
-      "password" : null,
-      "sshIdentity" : null
+      "username" : "jquaglia",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "VkwLkeDp5SmYAhewK5Wx44yAkChGoHrPLowFJtVOByqsqbNZkUGgiAqdnRBTiN44PASFTb8="
+        },
+        "encryptedToken" : {
+          "token" : "0TlKe0Q7pH-l0RNDdveWtypo7ceAsjt1kn+DtbS-lUK9"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "bTy1CD8RrPtBRrlaN-5g7LqLQKpv3zCCjhF5RgCCDqZr665CAadNIdvRcwbEf0DPNh9k"
+        },
+        "encryptedToken" : {
+          "token" : "0TlKe0Q7pH-l0RNDdveWtypo7ceAsjt1kn+DtbS-lUK9"
+        }
+      }
     }
   },
-  "dontInteractWithSystem" : null,
-  "forwardX11" : null,
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
   "additionalOptions" : null
 }
