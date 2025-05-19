@@ -6,7 +6,7 @@
     "color" : null,
     "dontAllowScripts" : null,
     "confirmAllModifications" : null,
-    "sync" : null,
+    "sync" : true,
     "defaultIdentityStore" : null
   }
 }
