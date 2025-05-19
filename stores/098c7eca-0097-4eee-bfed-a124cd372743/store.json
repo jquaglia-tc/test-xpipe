@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "brasrvzabbix02.int.tucows.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "jquaglia",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "txnfD4K66Ezyut+vWjHVg2u+J+cqDaBK6Z6IqUJjqO9bNqWjvUD+pZNWvAsRuH-PWUJgwv8="
+        },
+        "encryptedToken" : {
+          "token" : "F7c3n2eh3a4Ti39dcM+eG2KtVUxt2VomUm4aGCMl+-Ak"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "FAr1ymxTiPW4FjXLMnUxv9IQBzBaEqW686+ifGJjrY+7elPvyJgdjrHfxNv4lFBZ8XpY"
+        },
+        "encryptedToken" : {
+          "token" : "F7c3n2eh3a4Ti39dcM+eG2KtVUxt2VomUm4aGCMl+-Ak"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
