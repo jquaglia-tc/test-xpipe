@@ -1,7 +1,7 @@
 {
   "uuid" : "040ee9fa-a45d-48bf-ad63-6019a7af8559",
-  "name" : "brasrvdc05.int.tucows.com (Copy)",
+  "name" : "frasrvdc01.int.tucows.com",
   "categoryUuid" : "eecef478-b9c9-4aa3-ab61-4fda428e5d65",
   "color" : null,
-  "icon" : null
+  "icon" : "selfhst/microsoft-windows"
 }
