@@ -1,0 +1,13 @@
+{
+  "enableHttpApi" : false,
+  "dontAutomaticallyStartVmSshServer" : false,
+  "dontAcceptNewHostKeys" : false,
+  "disableTerminalRemotePasswordPreparation" : false,
+  "alwaysConfirmElevation" : false,
+  "dontCachePasswords" : false,
+  "denyTempScriptCreation" : false,
+  "passwordManager" : "none",
+  "encryptAllVaultData" : false,
+  "workspaceLock" : null,
+  "apiKey" : "6a06a522-64c6-464d-9653-4ec162b5a5db"
+}
