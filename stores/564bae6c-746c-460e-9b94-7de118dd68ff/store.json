@@ -1,6 +1,6 @@
 {
   "type" : "rdpSimple",
-  "host" : "frasrvdc01.int.tucows.com",
+  "host" : "frasrvdc02.int.tucows.com",
   "port" : 3389,
   "domain" : null,
   "enableDesktopIntegration" : false,
