@@ -1,0 +1,14 @@
+{
+  "type" : "rdpSimple",
+  "host" : "brasrvdc04.int.tucows.com",
+  "port" : 3389,
+  "domain" : null,
+  "enableDesktopIntegration" : false,
+  "additionalOptions" : null,
+  "identity" : {
+    "type" : "ref",
+    "ref" : {
+      "storeId" : "eec6f004-8714-46ec-99a6-c3acbc27b0cd"
+    }
+  }
+}
