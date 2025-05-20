@@ -1,0 +1,28 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "debian@10.161.51.215",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : null,
+      "password" : null,
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "xZYELDf0kKWZs7v7Y3aI1LjlPqQJiSKaKrhAT5yjFt3KdDidULNEonVboDFqF6pzlR8O+5izAU3Pq0sW8mBYOiuj4URullIBLn33sIBZigel5YRZjuBKvhOA+sGd1XellKV3lXI+bvV7Uf8vX7Yo3oaBnZlNuoBOvFT+ZRpXuq3Woiir87+a5g+tjtcbhtKoeomohtpEpzxyPcwnFtLDQJPHWraPV89WqUrbwnosBa36R7F9N56E"
+        },
+        "encryptedToken" : {
+          "token" : "9q9uw3HROwwr8kckArfmbyA+4XyjXo6FkQsn3VQGOXpO"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : null,
+  "forwardX11" : null,
+  "additionalOptions" : null
+}
