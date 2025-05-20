@@ -4,7 +4,7 @@
   "port" : 3389,
   "domain" : null,
   "enableDesktopIntegration" : false,
-  "additionalOptions" : "selectedmonitors:s:3\nuse multimon:i:1",
+  "additionalOptions" : null,
   "identity" : {
     "type" : "ref",
     "ref" : {
