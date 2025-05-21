@@ -4,7 +4,7 @@
   "port" : 3389,
   "domain" : null,
   "enableDesktopIntegration" : false,
-  "additionalOptions" : "screen mode id:i:0\ndesktopwidth:i:1680\ndesktopheight:i:960\nselectedmonitors:s:2\nuse multimon:i:1",
+  "additionalOptions" : "screen mode id:i:0\ndesktopwidth:i:1680\ndesktopheight:i:960\nselectedmonitors:s:2\nuse multimon:i:0",
   "identity" : {
     "type" : "ref",
     "ref" : {
