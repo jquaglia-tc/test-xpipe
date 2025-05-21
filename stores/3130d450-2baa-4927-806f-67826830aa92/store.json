@@ -1,0 +1,23 @@
+{
+  "type" : "syncedIdentity",
+  "username" : "jmq",
+  "password" : {
+    "secret" : {
+      "type" : "vault",
+      "encryptedValue" : "CroNJFUnvdoAcaZjPZwcZNECEwQZiGwoGW0Jtxe8XLtiLLDH93ElKO8XZF0J+abJiHk5WyI="
+    },
+    "encryptedToken" : {
+      "token" : "EQ1+fA36bkGWOlP7vEXJGnUzjnrGarGNxS50dg0WcuGD"
+    }
+  },
+  "sshIdentity" : {
+    "secret" : {
+      "type" : "vault",
+      "encryptedValue" : "Wz4N3GVk8yYGXbaVq5foOAXdNXOGpWD6hjjt0WojA4aP0w2+tbf3AjV4soGU-5GqFwrK"
+    },
+    "encryptedToken" : {
+      "token" : "EQ1+fA36bkGWOlP7vEXJGnUzjnrGarGNxS50dg0WcuGD"
+    }
+  },
+  "perUser" : false
+}
