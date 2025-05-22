@@ -4,7 +4,7 @@
   "port" : 3389,
   "domain" : null,
   "enableDesktopIntegration" : false,
-  "additionalOptions" : "\n",
+  "additionalOptions" : "desktop size id:i:0",
   "identity" : {
     "type" : "ref",
     "ref" : {
