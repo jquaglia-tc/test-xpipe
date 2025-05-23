@@ -6,5 +6,7 @@
   },
   "shell" : null,
   "elevated" : true,
-  "scripts" : null
+  "scripts" : [ {
+    "storeId" : "8d3e6dec-d0be-32f1-bc25-446b7750028d"
+  } ]
 }
