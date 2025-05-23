@@ -1,0 +1,14 @@
+{
+  "type" : "rdpSimple",
+  "host" : "10.161.135.241",
+  "port" : 3389,
+  "domain" : null,
+  "enableDesktopIntegration" : false,
+  "additionalOptions" : null,
+  "identity" : {
+    "type" : "ref",
+    "ref" : {
+      "storeId" : "3130d450-2baa-4927-806f-67826830aa92"
+    }
+  }
+}
