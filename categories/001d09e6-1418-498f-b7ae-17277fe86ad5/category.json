@@ -4,9 +4,9 @@
   "parentUuid" : "358dee6f-4b0a-4172-b81e-d0b677413616",
   "config" : {
     "color" : null,
-    "dontAllowScripts" : null,
+    "dontAllowScripts" : false,
     "confirmAllModifications" : null,
-    "sync" : null,
+    "sync" : true,
     "defaultIdentityStore" : null
   }
 }
