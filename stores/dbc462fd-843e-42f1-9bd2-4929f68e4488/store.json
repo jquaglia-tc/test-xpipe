@@ -3,7 +3,7 @@
   "proxy" : {
     "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
   },
-  "host" : "10.161.118.173",
+  "host" : "10.161.118.192",
   "port" : 22,
   "identity" : {
     "type" : "inPlace",
@@ -13,7 +13,7 @@
       "password" : {
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "GMJu7DbLJw6ctf-HevBJ-4+8o12BZBSmi--bnBrzcIxkxo7T+ubTOUlikmH-24iNp3GR"
+          "encryptedValue" : "tleari4aAHiTS8i1XdsLPTDy4Rg1CP26FzRiAd3yr2ej81GUDow+WkLdgslICszZ-XHC"
         },
         "encryptedToken" : {
           "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
@@ -22,7 +22,7 @@
       "sshIdentity" : {
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "r8yu5QgEhB825z1f0fxft6hBjGCvnfYWF8iql9hl9Hv6KCr-hDVsLaygGhkh7gGY70-lx9-zwpsf1Cs-XglU4Z1E80DJVbUTkl6FJzdhB1pG1+3Aa+SOQZ8l5LcuE-hALZNFhD4by3KRKEGsYAUuPHgxjJpTiyAFW01S3oiVRfc8xnZsm1zOD5WeiohmjPa2pSRH+8X3nJFvYTLoQmvkgWhkIy0zzOYLKlAc3j1Sc8Jmx4XZxMm29FHJCGHFbbK+9-NvdDM="
+          "encryptedValue" : "3Kyryi-DVC9cUbOyeaEPTTrkyklGXt4kNdGs1BkYYoA9fUnFRbDpaCaCVzZZPi2i8Yq06lLE1MULR2lswFITqyeLU6eEixpIms1KmVWa2Y9z3E0pOB4qJjxtaurDHfqjCI7JBBZLNadoIB39zDmdteQgmoG0Hi1mYsw5iGgSouhNl70Dx31J47Cm61vI-ZcWjg8HSZ1kBM2nKBCpqZPXYGBhKkfGCNFl98GGeCNlzJ2+Ko+KRRqtV7MYTLvv0UmXyeA-qzQ="
         },
         "encryptedToken" : {
           "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
