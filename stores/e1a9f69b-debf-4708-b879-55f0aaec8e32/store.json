@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "10.161.118.173",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "debian",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "GMJu7DbLJw6ctf-HevBJ-4+8o12BZBSmi--bnBrzcIxkxo7T+ubTOUlikmH-24iNp3GR"
+        },
+        "encryptedToken" : {
+          "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "r8yu5QgEhB825z1f0fxft6hBjGCvnfYWF8iql9hl9Hv6KCr-hDVsLaygGhkh7gGY70-lx9-zwpsf1Cs-XglU4Z1E80DJVbUTkl6FJzdhB1pG1+3Aa+SOQZ8l5LcuE-hALZNFhD4by3KRKEGsYAUuPHgxjJpTiyAFW01S3oiVRfc8xnZsm1zOD5WeiohmjPa2pSRH+8X3nJFvYTLoQmvkgWhkIy0zzOYLKlAc3j1Sc8Jmx4XZxMm29FHJCGHFbbK+9-NvdDM="
+        },
+        "encryptedToken" : {
+          "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
