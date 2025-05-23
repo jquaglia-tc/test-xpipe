@@ -1,6 +1,6 @@
 {
   "type" : "rdpSimple",
-  "host" : "10.161.135.133",
+  "host" : "10.161.135.151",
   "port" : 3389,
   "domain" : null,
   "enableDesktopIntegration" : true,
