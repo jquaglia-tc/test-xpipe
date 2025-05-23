@@ -4,7 +4,7 @@
   "port" : 3389,
   "domain" : null,
   "enableDesktopIntegration" : false,
-  "additionalOptions" : "selectedmonitors:s:2\nuse multimon:i:1\nredirectprinters:i:0",
+  "additionalOptions" : "selectedmonitors:s:2\nuse multimon:i:1\nredirectprinters:i:0\ndrivestoredirect:s:C:\\",
   "identity" : {
     "type" : "inPlace",
     "identityStore" : {
@@ -13,7 +13,7 @@
       "password" : {
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "8EXa7+PAq2TZCQ3OlYXwu6C5aTmNhyDImOdChHMPZeYd5oBvXRhO5zueuF+9uWPUgPRjo28="
+          "encryptedValue" : "qHUjFZ9I0+ca+lbYJB-12KAlmpyGr4zcamf+9Vo0JdJa7CEcamCIYjP3-YlOLkp4JsxE4DU="
         },
         "encryptedToken" : {
           "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
