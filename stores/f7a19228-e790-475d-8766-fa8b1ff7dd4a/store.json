@@ -1,6 +1,6 @@
 {
   "type" : "rdpSimple",
-  "host" : "10.161.40.166",
+  "host" : "10.161.40.192",
   "port" : 3389,
   "domain" : null,
   "enableDesktopIntegration" : false,
@@ -13,7 +13,7 @@
       "password" : {
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "1I8C9rf+L4WUK1MYbmIClmMj7kzA8rbGaF-QXBjPeESDkhNlfhuMXuxjV5-0BUsjx1z9ewc="
+          "encryptedValue" : "L62hcs9ZipZvET0vJxvCW-OMpIAqejr0ChE+d7BmZdjWmj4dzVEOiM4Mi6WKDedYZPCKJcM="
         },
         "encryptedToken" : {
           "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
