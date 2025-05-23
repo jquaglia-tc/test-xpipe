@@ -1,0 +1,12 @@
+{
+  "uuid" : "7969c316-d68b-4b70-8290-10d8e6f2c979",
+  "name" : "internal.cloud",
+  "parentUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : false,
+    "confirmAllModifications" : null,
+    "sync" : true,
+    "defaultIdentityStore" : null
+  }
+}
