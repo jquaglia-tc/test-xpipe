@@ -1,0 +1,25 @@
+{
+  "type" : "rdpSimple",
+  "host" : "10.161.40.166",
+  "port" : 3389,
+  "domain" : null,
+  "enableDesktopIntegration" : false,
+  "additionalOptions" : "selectedmonitors:s:2\nuse multimon:i:1\nredirectprinters:i:0",
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : ".\\administrator",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "JczvuTIA0DRCixPvEEOF9v4aJ9FCT6QFJBvOeViZdJ8m1Su8UHFhFSDuDtOPqQ9eHgzm2H8="
+        },
+        "encryptedToken" : {
+          "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
+        }
+      },
+      "sshIdentity" : null
+    }
+  }
+}
