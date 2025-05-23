@@ -1,0 +1,12 @@
+{
+  "uuid" : "001d09e6-1418-498f-b7ae-17277fe86ad5",
+  "name" : "New category",
+  "parentUuid" : "358dee6f-4b0a-4172-b81e-d0b677413616",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : null,
+    "confirmAllModifications" : null,
+    "sync" : null,
+    "defaultIdentityStore" : null
+  }
+}
