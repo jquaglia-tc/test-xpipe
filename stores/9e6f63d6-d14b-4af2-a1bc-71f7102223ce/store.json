@@ -9,11 +9,11 @@
     "type" : "inPlace",
     "identityStore" : {
       "type" : "localIdentity",
-      "username" : "jquaglia",
+      "username" : "jquaglia@tucows.internal",
       "password" : {
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "WgD2f9UzwFSovdO5qp0RlD68lYfUTc81AW4vkF-UMPLHUeTqASDsxEOUZ-xBgkdojym7NaA="
+          "encryptedValue" : "Bwn40g-gS3MpkoZ5Qn0E7133wU4vQIF37gMyDPuKwkJ1Dei+PWMGZg9RLCsyfdqzaKMmUpU="
         },
         "encryptedToken" : {
           "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
