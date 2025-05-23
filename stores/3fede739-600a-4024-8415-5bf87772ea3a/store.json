@@ -1,0 +1,27 @@
+{
+  "type" : "psSession",
+  "gateway" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "connectionMethod" : {
+    "type" : "computerName",
+    "computerName" : "10.161.60.215"
+  },
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "jquaglia@internal.cloud",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "RkZzmFEEYTMG0+8ANn7yMrWi1yzkXntKC6T5yjqnoaoGN2bsCyNKXRBwSgA10BjKLk-gOsg="
+        },
+        "encryptedToken" : {
+          "token" : "QuxwYHYDspOFb7xokbfT78rNGwO6V8piKskDyziQ8nWH"
+        }
+      },
+      "sshIdentity" : null
+    }
+  }
+}
