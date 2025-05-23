@@ -1,0 +1,12 @@
+{
+  "uuid" : "e15f524b-265f-40b4-8eb7-2a2fdb7f2d80",
+  "name" : "Member Servers",
+  "parentUuid" : "78cce090-7bb4-4362-8938-6ecccaf71f9a",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : null,
+    "confirmAllModifications" : null,
+    "sync" : null,
+    "defaultIdentityStore" : null
+  }
+}
