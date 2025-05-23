@@ -1,0 +1,12 @@
+{
+  "uuid" : "358dee6f-4b0a-4172-b81e-d0b677413616",
+  "name" : "tucows.internal",
+  "parentUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : false,
+    "confirmAllModifications" : null,
+    "sync" : true,
+    "defaultIdentityStore" : null
+  }
+}
