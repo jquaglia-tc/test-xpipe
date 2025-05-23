@@ -1,0 +1,14 @@
+{
+  "type" : "rdpSimple",
+  "host" : "10.161.135.133",
+  "port" : 3389,
+  "domain" : null,
+  "enableDesktopIntegration" : true,
+  "additionalOptions" : "screen mode id:i:1\ndesktopwidth:i:1680\ndesktopheight:i:960\nselectedmonitors:s:3\nuse multimon:i:0\nredirectprinters:i:0",
+  "identity" : {
+    "type" : "ref",
+    "ref" : {
+      "storeId" : "3130d450-2baa-4927-806f-67826830aa92"
+    }
+  }
+}
