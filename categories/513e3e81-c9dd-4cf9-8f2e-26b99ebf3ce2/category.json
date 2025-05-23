@@ -1,0 +1,12 @@
+{
+  "uuid" : "513e3e81-c9dd-4cf9-8f2e-26b99ebf3ce2",
+  "name" : "Domain Controllers",
+  "parentUuid" : "78cce090-7bb4-4362-8938-6ecccaf71f9a",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : null,
+    "confirmAllModifications" : null,
+    "sync" : null,
+    "defaultIdentityStore" : null
+  }
+}
