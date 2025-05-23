@@ -9,11 +9,11 @@
     "type" : "inPlace",
     "identityStore" : {
       "type" : "localIdentity",
-      "username" : ".\\administrator",
+      "username" : "jquaglia",
       "password" : {
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "JczvuTIA0DRCixPvEEOF9v4aJ9FCT6QFJBvOeViZdJ8m1Su8UHFhFSDuDtOPqQ9eHgzm2H8="
+          "encryptedValue" : "WgD2f9UzwFSovdO5qp0RlD68lYfUTc81AW4vkF-UMPLHUeTqASDsxEOUZ-xBgkdojym7NaA="
         },
         "encryptedToken" : {
           "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
