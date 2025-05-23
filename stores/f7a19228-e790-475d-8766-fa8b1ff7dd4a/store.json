@@ -1,0 +1,25 @@
+{
+  "type" : "rdpSimple",
+  "host" : "10.161.40.166",
+  "port" : 3389,
+  "domain" : null,
+  "enableDesktopIntegration" : false,
+  "additionalOptions" : "selectedmonitors:s:2\nuse multimon:i:1\nredirectprinters:i:0",
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "jquaglia@tucows.internal",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "Bwn40g-gS3MpkoZ5Qn0E7133wU4vQIF37gMyDPuKwkJ1Dei+PWMGZg9RLCsyfdqzaKMmUpU="
+        },
+        "encryptedToken" : {
+          "token" : "VBEDMw0mRJrTd7GwV8dl4IMvqSDiXprMNvzS+8knAx-T"
+        }
+      },
+      "sshIdentity" : null
+    }
+  }
+}
