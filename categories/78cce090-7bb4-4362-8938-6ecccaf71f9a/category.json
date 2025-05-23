@@ -1,0 +1,12 @@
+{
+  "uuid" : "78cce090-7bb4-4362-8938-6ecccaf71f9a",
+  "name" : "Brampton.cloud",
+  "parentUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : null,
+    "confirmAllModifications" : null,
+    "sync" : true,
+    "defaultIdentityStore" : null
+  }
+}
